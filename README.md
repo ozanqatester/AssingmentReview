@@ -1,9 +1,9 @@
-Sample Assignment Code
+**Sample Assignment Code**
 
 Automated API tests for Hotel Booking Endpoints.
 
 API Documentation: http://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-GetBookings
 
-Task:
+**Task:**
 * Review the project
 * What can be done better in this project?
