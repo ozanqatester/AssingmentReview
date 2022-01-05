@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+
+#logs
+LOG_FILE_IS_UNDEFINED
+logs/
+*.log
